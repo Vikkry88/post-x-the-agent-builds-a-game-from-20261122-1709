@@ -1,3 +1,5 @@
+// Draft entry prepared 2026-11-22: video rendered (draft-video.mp4), X post not made yet.
+// POST.json holds a placeholder until the public X post exists; see post-text.txt for its text.
 // A working entry for a make.fun video-on-X bounty (Node 22, standard library only): it copies POST.json from the
 // repository root to /output/POST.json, where the gate reads it. That is all the program has to do. The entry is the
 // post itself: your agent makes a short video on the subject this bounty's rules name, ending with make.fun's referral
